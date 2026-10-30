@@ -1,0 +1,12 @@
+alice,FAILED
+alice,FAILED
+alice,FAILED
+alice,SUCCESS
+bob,SUCCESS
+bob,FAILED
+charlie,FAILED
+charlie,FAILED
+badly_formatted_line
+charlie,FAILED
+charlie,SUCCESS
+unknown,LOCKED
